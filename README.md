@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @onegouda
 - 👀 I’m interested in IoT,Android application Developeing
-- 🌱 I’m currently learning Kali linux,penitration
 - 📫 How to reach me @khanapurramanagouda@gmail.com
 
 <!---
